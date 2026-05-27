@@ -56,39 +56,42 @@
 		<dc:subject id="subject-9">Grand Banks of Newfoundland -- Fiction</dc:subject>
 		<meta property="authority" refines="#subject-9">LCHS</meta>
 		<meta property="term" refines="#subject-9">Unknown</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description">A spoiled rich teenager falls overboard from an ocean liner and is rescued by a New England fishing schooner, where the crew forces him to work, ultimately transforming him into a mature and self-reliant young man.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			LONG_DESCRIPTION
+			&lt;p&gt;Fifteen year old Harvey Cheyne is heir to a vast fortune. He's also a spoiled obnoxious brat, well on his way to becoming a spoiled obnoxious adult. But Harvey's fate is changed forever during a trans-Atlantic ocean voyage with his parents when he falls overboard and, against all odds, is rescued by a fishing boat on the Grand Banks.&lt;/p&gt;
+			&lt;p&gt;Told in no uncertain terms that the boat - the &lt;i&gt;We're Here&lt;/i&gt; out of Gloucester, Massachusetts - won't be returning to land for months, and that he's expected to pitch in with the crew, Harvey first rebels against his fate, before eventually reveling in it. When he eventually returns to land, he's forever changed.&lt;/p&gt;
+			&lt;p&gt;&lt;i&gt;Captains Courageous&lt;/i&gt; is one of literature's great coming of age adventures, and a great view of the now gone cod fishing schooner industry of the 19th and early 20th centuries. The story has been adapted into several movies and musicals, most notably the 1937 film, which was nominated for four Academy Awards and won Spencer Tracy the Academy Award for Best Actor.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/2186</dc:source>
 		<dc:source>https://archive.org/details/cu31924013493246</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<meta property="se:production-notes">Illustrations not included in this ebook.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/Captains_Courageous</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/rudyard-kipling_captains-courageous</meta>
 		<dc:creator id="author">Rudyard Kipling</dc:creator>
 		<meta property="file-as" refines="#author">Kipling, Rudyard</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
+		<meta property="se:name.person.full-name" refines="#author">Joseph Rudyard Kipling</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/Rudyard_Kipling</meta>
 		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n79103792</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
-		<dc:contributor id="artist">COVER_ARTIST_NAME</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<meta property="role" refines="#author" scheme="marc:relators">dto</meta>
+		<dc:contributor id="artist">Winslow Homer</dc:contributor>
+		<meta property="file-as" refines="#artist">Homer, Winslow</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/Winslow_Homer</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n79023170</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">David Reed</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Reed, David</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">Bill Stoddard. HTML version by Al Haines</dc:contributor>
-		<meta property="file-as" refines="#transcriber-2">TRANSCRIBER_2_SORT</meta>
+		<meta property="file-as" refines="#transcriber-2">Stoddard, Bill</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER_NAME</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Chris Spurgeon</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Spurgeon, Chris</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://www.spurgeonworld.com/</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
