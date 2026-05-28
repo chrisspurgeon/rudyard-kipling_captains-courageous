@@ -2,7 +2,6 @@
 @namespace epub "http://www.idpf.org/2007/ops";
 
 [epub|type~="z3998:diary"] p,
-[epub|type~="z3998:diary-entry"] p,
 [epub|type~="z3998:letter"] p,
 [epub|type~="z3998:song"] p,
 [epub|type~="z3998:verse"] p{
@@ -22,8 +21,7 @@
 	display: none;
 }
 
-[epub|type~="z3998:song"] p + p,
-[epub|type~="z3998:verse"] p + p{
+[epub|type~="z3998:song"] p + p{
 	margin-top: 1em;
 }
 
