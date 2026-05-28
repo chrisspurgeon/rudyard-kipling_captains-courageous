@@ -67,3 +67,7 @@ section[epub|type~="dedication"] cite{
 	font-variant: small-caps;
 }
 /* End centered dedications */
+
+ul {
+	list-style: none;
+}
