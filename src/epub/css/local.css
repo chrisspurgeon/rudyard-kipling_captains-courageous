@@ -1,8 +1,9 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
+/* Diary, song, and verse */
+
 [epub|type~="z3998:diary"] p,
-[epub|type~="z3998:letter"] p,
 [epub|type~="z3998:song"] p,
 [epub|type~="z3998:verse"] p{
 	text-align: initial;
@@ -25,11 +26,10 @@
 	margin-top: 1em;
 }
 
-.telegram{
-	font-variant: all-small-caps;
-}
+/* end diary, song, and verse */
 
 /* Centered dedications */
+
 section[epub|type~="dedication"]{
 	text-align: center;
 }
@@ -115,6 +115,20 @@ section[epub|type~="epigraph"] > *{
 }
 /* End full-page epigraphs */
 
+
+/* Chapter 9 telegrams */
+
+.telegram{
+	font-variant: all-small-caps;
+}
+
+/* End telegrams */
+
+/* Chapter 10 lists */
+
 ul {
 	list-style: none;
 }
+
+/* end lists */
+
