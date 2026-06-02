@@ -86,7 +86,7 @@
 		<dc:contributor id="transcriber-1">David Reed</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Reed, David</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="transcriber-2">Bill Stoddard. HTML version by Al Haines</dc:contributor>
+		<dc:contributor id="transcriber-2">Bill Stoddard</dc:contributor>
 		<meta property="file-as" refines="#transcriber-2">Stoddard, Bill</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Chris Spurgeon</dc:contributor>
