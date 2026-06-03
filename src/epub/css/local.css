@@ -27,6 +27,16 @@
 	margin-top: 1em;
 }
 
+[epub|type~="z3998:song"] div{
+	margin: 1em 0;
+}
+
+[epub|type~="z3998:song"] header p{
+	text-align: center;
+}
+
+
+
 /* end song and verse */
 
 /* Centered dedications */
